@@ -1,0 +1,5 @@
+*.aps
+*.user
+/bin/*
+/obj/*
+/.vs
