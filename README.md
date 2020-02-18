@@ -14,8 +14,14 @@ For setting master volume in default sound card via CLI, this program will be us
 setvolume.exe <mute:0-1> <volume:0-100>
 ```
 
-- `Mute:` 0:false 1:true
-- `Volume:` 0% - 100%
+- Mute: 0:false 1:true
+- Volume: 0% - 100%
+
+For example, mute:true and volume 30%
+
+```
+setvolume.exe 0 30
+```
 
 
 ## Install
